@@ -1,0 +1,14 @@
+{
+  "name": "TestHelperAI",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Токен Telegram-бота"
+    },
+    "OPENAI_API_KEY": {
+      "description": "Ключ OpenAI"
+    },
+    "PAID_USERS": {
+      "description": "ID пользователей через запятую (например: 329776589)"
+    }
+  }
+}
